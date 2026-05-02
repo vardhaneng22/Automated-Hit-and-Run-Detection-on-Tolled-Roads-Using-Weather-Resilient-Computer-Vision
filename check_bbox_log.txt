@@ -1,0 +1,5 @@
+Saved image shape: (4032, 3024, 3)
+Green pixel count: 1722
+Detected plates from model on i3.jpg:
+(1052, 1551, 2067, 1834, 0.87)
+box: 1052 1551 2067 1834 conf 0.87
